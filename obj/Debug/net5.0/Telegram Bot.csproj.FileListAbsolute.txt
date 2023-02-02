@@ -1,0 +1,69 @@
+C:\Users\Олд Боров\source\repos\Telegram Bot\Telegram Bot\bin\Debug\net5.0\Telegram Bot.exe
+C:\Users\Олд Боров\source\repos\Telegram Bot\Telegram Bot\bin\Debug\net5.0\Telegram Bot.deps.json
+C:\Users\Олд Боров\source\repos\Telegram Bot\Telegram Bot\bin\Debug\net5.0\Telegram Bot.runtimeconfig.json
+C:\Users\Олд Боров\source\repos\Telegram Bot\Telegram Bot\bin\Debug\net5.0\Telegram Bot.runtimeconfig.dev.json
+C:\Users\Олд Боров\source\repos\Telegram Bot\Telegram Bot\bin\Debug\net5.0\Telegram Bot.dll
+C:\Users\Олд Боров\source\repos\Telegram Bot\Telegram Bot\bin\Debug\net5.0\ref\Telegram Bot.dll
+C:\Users\Олд Боров\source\repos\Telegram Bot\Telegram Bot\bin\Debug\net5.0\Telegram Bot.pdb
+C:\Users\Олд Боров\source\repos\Telegram Bot\Telegram Bot\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Олд Боров\source\repos\Telegram Bot\Telegram Bot\bin\Debug\net5.0\Telegram.Bot.dll
+C:\Users\Олд Боров\source\repos\Telegram Bot\Telegram Bot\obj\Debug\net5.0\Telegram Bot.csproj.AssemblyReference.cache
+C:\Users\Олд Боров\source\repos\Telegram Bot\Telegram Bot\obj\Debug\net5.0\Telegram Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Олд Боров\source\repos\Telegram Bot\Telegram Bot\obj\Debug\net5.0\Telegram Bot.AssemblyInfoInputs.cache
+C:\Users\Олд Боров\source\repos\Telegram Bot\Telegram Bot\obj\Debug\net5.0\Telegram Bot.AssemblyInfo.cs
+C:\Users\Олд Боров\source\repos\Telegram Bot\Telegram Bot\obj\Debug\net5.0\Telegram Bot.csproj.CoreCompileInputs.cache
+C:\Users\Олд Боров\source\repos\Telegram Bot\Telegram Bot\obj\Debug\net5.0\Telegram Bot.csproj.CopyComplete
+C:\Users\Олд Боров\source\repos\Telegram Bot\Telegram Bot\obj\Debug\net5.0\Telegram Bot.dll
+C:\Users\Олд Боров\source\repos\Telegram Bot\Telegram Bot\obj\Debug\net5.0\ref\Telegram Bot.dll
+C:\Users\Олд Боров\source\repos\Telegram Bot\Telegram Bot\obj\Debug\net5.0\Telegram Bot.pdb
+C:\Users\Олд Боров\source\repos\Telegram Bot\Telegram Bot\obj\Debug\net5.0\Telegram Bot.genruntimeconfig.cache
+C:\Users\Олд Боров\source\repos\Telegram Bot\Telegram Bot\bin\Debug\net5.0\CsvHelper.dll
+C:\Users\Олд Боров\source\repos\Telegram Bot\Telegram Bot\bin\Debug\net5.0\Flurl.dll
+C:\Users\Олд Боров\source\repos\Telegram Bot\Telegram Bot\bin\Debug\net5.0\Flurl.Http.dll
+C:\Users\Олд Боров\source\repos\Telegram Bot\Telegram Bot\bin\Debug\net5.0\YahooFinanceApi.dll
+C:\Users\Олд Боров\Desktop\Pogromist\Telegram Bot\bin\Debug\net5.0\Telegram Bot.exe
+C:\Users\Олд Боров\Desktop\Pogromist\Telegram Bot\bin\Debug\net5.0\Telegram Bot.deps.json
+C:\Users\Олд Боров\Desktop\Pogromist\Telegram Bot\bin\Debug\net5.0\Telegram Bot.runtimeconfig.json
+C:\Users\Олд Боров\Desktop\Pogromist\Telegram Bot\bin\Debug\net5.0\Telegram Bot.runtimeconfig.dev.json
+C:\Users\Олд Боров\Desktop\Pogromist\Telegram Bot\bin\Debug\net5.0\Telegram Bot.dll
+C:\Users\Олд Боров\Desktop\Pogromist\Telegram Bot\bin\Debug\net5.0\ref\Telegram Bot.dll
+C:\Users\Олд Боров\Desktop\Pogromist\Telegram Bot\bin\Debug\net5.0\Telegram Bot.pdb
+C:\Users\Олд Боров\Desktop\Pogromist\Telegram Bot\bin\Debug\net5.0\CsvHelper.dll
+C:\Users\Олд Боров\Desktop\Pogromist\Telegram Bot\bin\Debug\net5.0\Flurl.dll
+C:\Users\Олд Боров\Desktop\Pogromist\Telegram Bot\bin\Debug\net5.0\Flurl.Http.dll
+C:\Users\Олд Боров\Desktop\Pogromist\Telegram Bot\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Олд Боров\Desktop\Pogromist\Telegram Bot\bin\Debug\net5.0\Telegram.Bot.dll
+C:\Users\Олд Боров\Desktop\Pogromist\Telegram Bot\bin\Debug\net5.0\YahooFinanceApi.dll
+C:\Users\Олд Боров\Desktop\Pogromist\Telegram Bot\obj\Debug\net5.0\Telegram Bot.csproj.AssemblyReference.cache
+C:\Users\Олд Боров\Desktop\Pogromist\Telegram Bot\obj\Debug\net5.0\Telegram Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Олд Боров\Desktop\Pogromist\Telegram Bot\obj\Debug\net5.0\Telegram Bot.AssemblyInfoInputs.cache
+C:\Users\Олд Боров\Desktop\Pogromist\Telegram Bot\obj\Debug\net5.0\Telegram Bot.AssemblyInfo.cs
+C:\Users\Олд Боров\Desktop\Pogromist\Telegram Bot\obj\Debug\net5.0\Telegram Bot.csproj.CoreCompileInputs.cache
+C:\Users\Олд Боров\Desktop\Pogromist\Telegram Bot\obj\Debug\net5.0\Telegram Bot.csproj.CopyComplete
+C:\Users\Олд Боров\Desktop\Pogromist\Telegram Bot\obj\Debug\net5.0\Telegram Bot.dll
+C:\Users\Олд Боров\Desktop\Pogromist\Telegram Bot\obj\Debug\net5.0\ref\Telegram Bot.dll
+C:\Users\Олд Боров\Desktop\Pogromist\Telegram Bot\obj\Debug\net5.0\Telegram Bot.pdb
+C:\Users\Олд Боров\Desktop\Pogromist\Telegram Bot\obj\Debug\net5.0\Telegram Bot.genruntimeconfig.cache
+C:\Users\dimak\Downloads\Stock-Bot-for-Telegram-main\Stock-Bot-for-Telegram-main\Telegram Bot\bin\Debug\net5.0\Telegram Bot.exe
+C:\Users\dimak\Downloads\Stock-Bot-for-Telegram-main\Stock-Bot-for-Telegram-main\Telegram Bot\bin\Debug\net5.0\Telegram Bot.deps.json
+C:\Users\dimak\Downloads\Stock-Bot-for-Telegram-main\Stock-Bot-for-Telegram-main\Telegram Bot\bin\Debug\net5.0\Telegram Bot.runtimeconfig.json
+C:\Users\dimak\Downloads\Stock-Bot-for-Telegram-main\Stock-Bot-for-Telegram-main\Telegram Bot\bin\Debug\net5.0\Telegram Bot.runtimeconfig.dev.json
+C:\Users\dimak\Downloads\Stock-Bot-for-Telegram-main\Stock-Bot-for-Telegram-main\Telegram Bot\bin\Debug\net5.0\Telegram Bot.dll
+C:\Users\dimak\Downloads\Stock-Bot-for-Telegram-main\Stock-Bot-for-Telegram-main\Telegram Bot\bin\Debug\net5.0\Telegram Bot.pdb
+C:\Users\dimak\Downloads\Stock-Bot-for-Telegram-main\Stock-Bot-for-Telegram-main\Telegram Bot\bin\Debug\net5.0\CsvHelper.dll
+C:\Users\dimak\Downloads\Stock-Bot-for-Telegram-main\Stock-Bot-for-Telegram-main\Telegram Bot\bin\Debug\net5.0\Flurl.dll
+C:\Users\dimak\Downloads\Stock-Bot-for-Telegram-main\Stock-Bot-for-Telegram-main\Telegram Bot\bin\Debug\net5.0\Flurl.Http.dll
+C:\Users\dimak\Downloads\Stock-Bot-for-Telegram-main\Stock-Bot-for-Telegram-main\Telegram Bot\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\dimak\Downloads\Stock-Bot-for-Telegram-main\Stock-Bot-for-Telegram-main\Telegram Bot\bin\Debug\net5.0\Telegram.Bot.dll
+C:\Users\dimak\Downloads\Stock-Bot-for-Telegram-main\Stock-Bot-for-Telegram-main\Telegram Bot\bin\Debug\net5.0\YahooFinanceApi.dll
+C:\Users\dimak\Downloads\Stock-Bot-for-Telegram-main\Stock-Bot-for-Telegram-main\Telegram Bot\obj\Debug\net5.0\Telegram Bot.csproj.AssemblyReference.cache
+C:\Users\dimak\Downloads\Stock-Bot-for-Telegram-main\Stock-Bot-for-Telegram-main\Telegram Bot\obj\Debug\net5.0\Telegram Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimak\Downloads\Stock-Bot-for-Telegram-main\Stock-Bot-for-Telegram-main\Telegram Bot\obj\Debug\net5.0\Telegram Bot.AssemblyInfoInputs.cache
+C:\Users\dimak\Downloads\Stock-Bot-for-Telegram-main\Stock-Bot-for-Telegram-main\Telegram Bot\obj\Debug\net5.0\Telegram Bot.AssemblyInfo.cs
+C:\Users\dimak\Downloads\Stock-Bot-for-Telegram-main\Stock-Bot-for-Telegram-main\Telegram Bot\obj\Debug\net5.0\Telegram Bot.csproj.CoreCompileInputs.cache
+C:\Users\dimak\Downloads\Stock-Bot-for-Telegram-main\Stock-Bot-for-Telegram-main\Telegram Bot\obj\Debug\net5.0\Telegram Bot.csproj.CopyComplete
+C:\Users\dimak\Downloads\Stock-Bot-for-Telegram-main\Stock-Bot-for-Telegram-main\Telegram Bot\obj\Debug\net5.0\Telegram Bot.dll
+C:\Users\dimak\Downloads\Stock-Bot-for-Telegram-main\Stock-Bot-for-Telegram-main\Telegram Bot\obj\Debug\net5.0\refint\Telegram Bot.dll
+C:\Users\dimak\Downloads\Stock-Bot-for-Telegram-main\Stock-Bot-for-Telegram-main\Telegram Bot\obj\Debug\net5.0\Telegram Bot.pdb
+C:\Users\dimak\Downloads\Stock-Bot-for-Telegram-main\Stock-Bot-for-Telegram-main\Telegram Bot\obj\Debug\net5.0\Telegram Bot.genruntimeconfig.cache
+C:\Users\dimak\Downloads\Stock-Bot-for-Telegram-main\Stock-Bot-for-Telegram-main\Telegram Bot\obj\Debug\net5.0\ref\Telegram Bot.dll
